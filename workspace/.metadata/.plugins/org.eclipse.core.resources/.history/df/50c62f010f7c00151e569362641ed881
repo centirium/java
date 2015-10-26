@@ -1,0 +1,55 @@
+/**
+ * 
+ */
+package org.cuatrovientos.operadores;
+
+/**
+ * @author javier_lorda
+ *
+ */
+public class Operadores {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		int a=6;
+		int b=7;
+		int c=0;
+		// aritmeticas
+		// +.-.*./.%
+		
+		c=a + b;
+		c=a % b;
+		c=a ^ b;
+		c=-a;
+		
+		a++;//incrementa 1 
+		++a;//se realiza primero la suma
+		
+		a--;
+		--a;
+		
+		//ojo
+		b=++a;
+		b=a++;
+		//abreviados
+		
+		//es lo mismo
+		b=b + 3;
+		b+=3;
+		
+		String frase ="hello";
+		frase= frase + "world";
+		//comparacion >, <, >=,<=,==,!=
+		
+		boolean result = a > b;
+		String name="pello";
+		
+		result=name=="pello";
+		
+		//booleanas
+
+	}
+
+}

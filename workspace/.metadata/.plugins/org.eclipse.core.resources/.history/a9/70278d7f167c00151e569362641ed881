@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package org.cuatrovientos.arrays;
+
+/**
+ * @author javier_lorda
+ *
+ */
+public class Arrays {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

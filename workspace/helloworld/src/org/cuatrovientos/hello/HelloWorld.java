@@ -17,8 +17,9 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 		Scanner reader =new Scanner(System.in); //
-	System.out.println("Hello World");			//
+	System.out.println("Hello World");			// muestra un mensaje en pantalla
 	System.out.println("Como te llamas");
+	
 	//lee lo que el usuario escribe en la consola
 	String linea= reader.nextLine();
 	System.out.println("hola " + linea);

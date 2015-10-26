@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package org.cuatrovientos.bucles;
+
+/**
+ * @author javier_lorda
+ *
+ */
+public class Bucles {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// Bucles infinito everywhere
+
+		int a = 10;
+
+		while (a > 0) {
+			System.out.println("voy todo buclao" + a);
+			a--;
+		}
+
+	}
+
+}

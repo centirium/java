@@ -1,0 +1,37 @@
+/**
+ * 
+ */
+package org.cuatrovientos.hello;
+
+import java.util.Scanner;
+
+/**
+ * Simple class to say hello
+ * @author javier_lorda
+ *
+ */
+public class HelloWorld {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Scanner reader =new Scanner(System.in); //
+	System.out.println("Hello World");			//
+	System.out.println("Como te llamas");
+	//lee lo que el usuario escribe en la consola
+	String linea= reader.nextLine();
+	System.out.println("hola " + linea);
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

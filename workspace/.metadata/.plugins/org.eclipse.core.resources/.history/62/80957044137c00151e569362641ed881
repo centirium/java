@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package org.cuatrovientos.bucles;
+
+/**
+ * @author javier_lorda
+ *
+ */
+public class Bucles {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

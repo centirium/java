@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package org.cuatrovientos.operadores;
+
+/**
+ * @author javier_lorda
+ *
+ */
+public class Operadores {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		int a=0;
+		int b;
+		int c;
+		// aritmeticas
+		
+		//comparacion
+		
+		
+		//booleanas
+
+	}
+
+}
