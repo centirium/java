@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package org.cuatrovientos.numsum;
+
+/**
+ * @author javier_lorda
+ *
+ */
+public class numsum {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+package org.cuatrovientos.hello;
+
+import java.util.Scanner;
+
+/**
+ * Simple class to say hello
+ * @author javier_lorda
+ *
+ */
+public class HelloWorld {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Scanner reader =new Scanner(System.in);
+	System.out.println("Hello World");
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

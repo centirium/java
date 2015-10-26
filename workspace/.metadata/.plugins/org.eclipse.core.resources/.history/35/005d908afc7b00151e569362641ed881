@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package org.cuatrovientos.variables;
+
+/**
+ * @author javier_lorda
+ *
+ */
+public class Variables {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//numerico
+		short minuNumero =6;
+				
+	
+	}
+
+}

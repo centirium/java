@@ -1,0 +1,30 @@
+/**
+ * 
+ */
+package org.cuatrovientos.numsum;
+
+import java.util.Scanner;
+
+/**
+ * @author javier_lorda
+ *
+ */
+public class numsum {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner reader=new Scanner(System.in);
+		System.out.println("dame un numero");
+		num1= reader.nextLine();
+		int numero=Integer.parseInt(num1);
+			System.out.println("dame otro numero");
+			num2= reader.nextLine();
+			int numero2=Integer.parseInt(num2);
+			int resultado =num1 + num2;
+		System.out.println(resultado);
+	}
+
+}
